@@ -2,6 +2,7 @@
 
 [Deep learning nanodegree foundation](https://github.com/udacity/deep-learning)で公開されているjupyter notebookを日本語化するプロジェクトです．
 `*_j.jpynb`が，`*.jpynb`の日本語訳を表します．
+また，2017年7月8日時点の最新版のnotebookを翻訳対象とします．
 
 # 目次
 
