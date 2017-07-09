@@ -1,3 +1,5 @@
+[Qiita記事]() | [haltaro](https://haltaro/github.io)
+
 [Deep learning nanodegree foundation](https://github.com/udacity/deep-learning)で公開されているjupyter notebookを日本語化するプロジェクトです．
 `*_j.jpynb`が，`*.jpynb`の日本語訳を表します．
 
@@ -6,16 +8,11 @@
 Notebookは，tutorial用とproject用に大別されます．
 Tutorial用notebookの練習問題には回答が用意されていますが，project用notebookの練習問題には回答が用意されていません．
 これは，後者が[Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)受講者向けの課題であるためです．
+そこで本プロジェクトでは，tutorial用notebookのみを日本語化の対象とします．
 
-## Tutorial
+以下は翻訳済みのnotebook一覧です．
 
-|ディレクトリ名|概要|進捗|
-|:--|:--|:--|
-
-## Project
-
-|ディレクトリ名|概要|進捗|
-|:--|:--|:--|
+* Reinforcement learning (翻訳中): Deep Q-learning networkをtensorflowで実装して，OpenAI/gymに挑戦します． 
 
 # 環境
 
