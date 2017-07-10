@@ -23,7 +23,7 @@ Tutorial用notebookの練習問題には回答が用意されていますが，p
 
 ## その他
 
-* 強化学習（Deep Q-learning）: Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します． 
+* [強化学習（Deep Q-learning）](https://github.com/haltaro/translating-dlnd-notebooks/blob/master/reinforcement/Q-learning-cart_j.ipynb): Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します． 
 
 # 環境
 
