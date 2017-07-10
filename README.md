@@ -11,8 +11,6 @@ Tutorial用notebookの練習問題には回答が用意されていますが，p
 これは，後者が[Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)受講者向けの課題であるためです．
 そこで本プロジェクトでは，主だったtutorial用notebookを翻訳の対象とします．
 
-以下は翻訳済みのnotebook一覧です．
-
 ## 入門
 
 ## Convolutional neural networks
@@ -23,7 +21,7 @@ Tutorial用notebookの練習問題には回答が用意されていますが，p
 
 ## その他
 
-* [強化学習（Deep Q-learning）](https://github.com/haltaro/translating-dlnd-notebooks/blob/master/reinforcement/Q-learning-cart_j.ipynb): Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します． 
+* [強化学習（Deep Q-learning）](https://github.com/haltaro/translating-dlnd-notebooks/blob/master/reinforcement/Q-learning-cart_j.ipynb): Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します（reinforcement/Q-learning-cart_j.ipynb)． 
 
 # 環境
 
