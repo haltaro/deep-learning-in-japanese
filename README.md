@@ -2,7 +2,7 @@
 
 [Deep learning nanodegree foundation](https://github.com/udacity/deep-learning)で公開されているjupyter notebookを日本語化するプロジェクトです．
 `*_j.jpynb`は，`*.jpynb`の日本語訳を表します．
-また，2017年7月8日時点の最新版のnotebookを翻訳対象とします．
+また，2017年7月13日時点の最新版のnotebookを翻訳対象とします．
 
 # 目次
 
@@ -33,6 +33,7 @@ Notebookは，tutorialとprojectに大別されます．Tutorialの練習問題�
 * 自己符号化器（Autoencoder）
 * MNISTでGAN（Generative Adversatial Network on MNIST）
 * Deep Convolutional GAN（Deep Convolutional GAN）
+* GANで半教師あり学習（Semi-supervised learning）
 
 ## その他
 
@@ -42,7 +43,7 @@ Notebookは，tutorialとprojectに大別されます．Tutorialの練習問題�
 
 # 環境
 
-各ディレクトリの`requirements.txt`は，notebookを実行するのに最低限必要な環境を示します．
+各ディレクトリの`requirements.txt`は，notebookの実行に最低限必要な環境を示します．
 
 ## `pip`
 
@@ -50,7 +51,7 @@ Notebookは，tutorialとprojectに大別されます．Tutorialの練習問題�
 
 ## `Conda`
 
-`environments`ディレクトリに`Conda`用の環境ファイルがあります．これらの環境ファイルはプラットフォーム依存ですのでご注意ください．
+`environments`ディレクトリに`Conda`用の環境ファイルがあります．お使いのプラットフォームに適したファイルをご利用ください．
 
 # License
 
