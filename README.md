@@ -6,22 +6,39 @@
 
 # 目次
 
-Notebookは，tutorial用とproject用に大別されます．
-Tutorial用notebookの練習問題には回答が用意されていますが，project用notebookの練習問題には回答が用意されていません．
-これは，後者が[Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)受講者向けの課題であるためです．
-そこで本プロジェクトでは，主だったtutorial用notebookを翻訳の対象とします．
+Notebookは，tutorialとprojectに大別されます．Tutorialの練習問題には解答が用意されていますが，projectの練習問題には解答が用意されていません．これは，後者が[Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)受講者向けの課題であるためです．そこで本プロジェクトでは，主なtopicのtutorialを翻訳の対象とします．
 
-## 入門
+以下のように，独断で5グループに分類します．（）は原題です．
+
+## 入門編
+
+* TFlearn入門（Intro to TFlearn）
+* TensorFlow入門（Intro to TensorFlow）
+* NumPyで評判分析（Sentiment analysis with Numpy）
+* 性能向上のための変数初期化（Weight initialization）
 
 ## Convolutional neural networks
 
+* 転移学習（Transfer learning with ConvNet）
+
 ## Recurrent neural networks
+
+* RNN入門（Character-wise RNN）
+* Word2Vec（Embeddings）
+* RNNで評判分析（Sentiment analysis RNN）
+* Seq2Seq（Sequence to sequence）
 
 ## Generative adversarial networks
 
+* 自己符号化器（Autoencoder）
+* MNISTでGAN（Generative Adversatial Network on MNIST）
+* Deep Convolutional GAN（Deep Convolutional GAN）
+
 ## その他
 
-* [強化学習（Deep Q-learning）](https://github.com/haltaro/translating-dlnd-notebooks/blob/master/reinforcement/Q-learning-cart_j.ipynb): Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します（reinforcement/Q-learning-cart_j.ipynb)． 
+* Tensorboard入門（Tensorboard）
+* [DQNで強化学習](https://github.com/haltaro/deep-learning-in-japanese/blob/master/reinforcement/Q-learning-cart_j.ipynb)（[Deep Q-learning](https://github.com/udacity/deep-learning/blob/master/reinforcement/Q-learning-cart.ipynb)）: Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します． 
+* Batch normalization（Batch normalization）
 
 # 環境
 
