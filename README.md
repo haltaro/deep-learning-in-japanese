@@ -1,4 +1,4 @@
-[Qiita記事]() | [haltaro](https://haltaro.github.io)
+[Qiita記事](http://qiita.com/haltaro/items/3a17c5c574f0c1631012) | [haltaro](https://haltaro.github.io)
 
 [Deep learning nanodegree foundation](https://github.com/udacity/deep-learning)で公開されているjupyter notebookを日本語化するプロジェクトです．
 `*_j.jpynb`は，`*.jpynb`の日本語訳を表します．
