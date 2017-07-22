@@ -12,9 +12,9 @@ Notebookは，tutorialとprojectに大別されます．Tutorialの練習問題�
 
 ## 入門編
 
-* TFlearn入門（Intro to TFlearn）
 * TensorFlow入門（Intro to TensorFlow）
-* NumPyで評判分析（Sentiment analysis with Numpy）
+* [TFlearnで評判分析]()（[Sentiment analysis with TFLearn]()）
+* TFlearnで文字認識（Intro to TFlearn）
 * 性能向上のための変数初期化（Weight initialization）
 
 ## Convolutional neural networks
