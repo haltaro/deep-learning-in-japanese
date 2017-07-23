@@ -6,14 +6,14 @@
 
 # 目次
 
-Notebookは，tutorialとprojectに大別されます．Tutorialの練習問題には解答が用意されていますが，projectの練習問題には解答が用意されていません．これは，後者が[Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)受講者向けの課題であるためです．そこで本プロジェクトでは，主なtopicのtutorialを翻訳の対象とします．
+notebookは，tutorialとprojectに大別されます．tutorialの練習問題には解答が用意されていますが，projectの練習問題には解答が用意されていません．これは，後者が[Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)受講者向けの課題であるためです．そこで本プロジェクトでは，一つのnotebookとして完結している，tutorialを翻訳の対象とします．
 
 以下のように，独断で5グループに分類します．（）は原題です．
 
 ## 入門編
 
 * TensorFlow入門（Intro to TensorFlow）
-* [TFlearnで評判分析](https://github.com/haltaro/deep-learning-in-japanese/blob/master/intro-to-tflearn/TFLearn_Sentiment_Analysis_Solution_j.ipynb)（[Sentiment analysis with TFLearn](https://github.com/udacity/deep-learning/blob/master/intro-to-tflearn/TFLearn_Sentiment_Analysis_Solution.ipynb)）: TensorFlowの高次ラッパー[TFLearn](http://tflearn.org/)で，映画レビューの評判分析に挑戦します．
+* [TFlearnで評判分析](https://github.com/haltaro/deep-learning-in-japanese/blob/master/intro-to-tflearn/TFLearn_Sentiment_Analysis_Solution_j.ipynb)（[Sentiment analysis with TFLearn](https://github.com/haltaro/deep-learning-in-japanese/blob/master/intro-to-tflearn/TFLearn_Sentiment_Analysis_Solution.ipynb)）: TensorFlowラッパー[TFLearn](http://tflearn.org/)で，映画レビューの評判分析に挑戦します．
 * TFlearnで手書き文字認識（Handwritten number recognition with TFLearn and MNIST）
 * 性能向上のための変数初期化（Weight initialization）
 
@@ -38,7 +38,7 @@ Notebookは，tutorialとprojectに大別されます．Tutorialの練習問題�
 ## その他
 
 * Tensorboard入門（Tensorboard）
-* [DQNで強化学習](https://github.com/haltaro/deep-learning-in-japanese/blob/master/reinforcement/Q-learning-cart_j.ipynb)（[Deep Q-learning](https://github.com/udacity/deep-learning/blob/master/reinforcement/Q-learning-cart.ipynb)）: Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します． 
+* [DQNで強化学習](https://github.com/haltaro/deep-learning-in-japanese/blob/master/reinforcement/Q-learning-cart_j.ipynb)（[Deep Q-learning](https://github.com/haltaro/deep-learning-in-japanese/blob/master/reinforcement/Q-learning-cart.ipynb)）: Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します． 
 * Batch normalization（Batch normalization）
 
 # 環境
