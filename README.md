@@ -4,6 +4,8 @@
 `*_j.jpynb`は，`*.jpynb`の日本語訳を表します．
 また，2017年7月13日時点の最新版のnotebookを翻訳対象とします．
 
+![dlnd](fig/dlnd.png)
+
 # 目次
 
 notebookは，tutorialとprojectに大別されます．tutorialの練習問題には解答が用意されていますが，projectの練習問題には解答が用意されていません．これは，後者が[Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)受講者向けの課題であるためです．そこで本プロジェクトでは，一つのnotebookとして完結している，tutorialを翻訳の対象とします．
