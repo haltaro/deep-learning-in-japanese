@@ -13,8 +13,8 @@ notebookは，tutorialとprojectに大別されます．tutorialの練習問題�
 ## 入門編
 
 * TensorFlow入門（Intro to TensorFlow）
-* [TFlearnで評判分析](https://github.com/haltaro/deep-learning-in-japanese/blob/master/intro-to-tflearn/TFLearn_Sentiment_Analysis_Solution_j.ipynb)（[Sentiment analysis with TFLearn](https://github.com/haltaro/deep-learning-in-japanese/blob/master/intro-to-tflearn/TFLearn_Sentiment_Analysis_Solution.ipynb)）: TensorFlowラッパー[TFLearn](http://tflearn.org/)で，映画レビューの評判分析に挑戦します．
-* TFlearnで手書き文字認識（Handwritten number recognition with TFLearn and MNIST）
+* [TFLearnで評判分析](https://github.com/haltaro/deep-learning-in-japanese/blob/master/intro-to-tflearn/TFLearn_Sentiment_Analysis_Solution_j.ipynb)（[Sentiment analysis with TFLearn](https://github.com/haltaro/deep-learning-in-japanese/blob/master/intro-to-tflearn/TFLearn_Sentiment_Analysis_Solution.ipynb)）: TensorFlowラッパー[TFLearn](http://tflearn.org/)で，映画レビューの評判分析に挑戦します．
+* TFLearnで手書き文字認識（Handwritten number recognition with TFLearn and MNIST）
 * 性能向上のための変数初期化（Weight initialization）
 
 ## Convolutional neural networks
