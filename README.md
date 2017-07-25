@@ -25,7 +25,7 @@ notebookは，tutorialとprojectに大別されます．tutorialの練習問題�
 
 * RNN入門（Character-wise RNN）
 * Word2Vec（Embeddings）
-* [RNNで評判分析](https://github.com/haltaro/deep-learning-in-japanese/blob/master/sentiment-rnn/Sentiment_RNN_Solution_j.ipynb)（[Sentiment analysis with RNN](https://github.com/haltaro/deep-learning-in-japanese/blob/master/sentiment-rnn/Sentiment_RNN_Solution.ipynb)：TensorFlowでlong short term memoryベースのrecurrent neural networkを実装して，映画レビューの評判分析に挑戦します．
+* [RNNで評判分析](https://github.com/haltaro/deep-learning-in-japanese/blob/master/sentiment-rnn/Sentiment_RNN_Solution_j.ipynb)（[Sentiment analysis with RNN](https://github.com/haltaro/deep-learning-in-japanese/blob/master/sentiment-rnn/Sentiment_RNN_Solution.ipynb)）：TensorFlowでlong short term memoryベースのrecurrent neural networkを実装して，映画レビューの評判分析に挑戦します．
 * Seq2Seq（Sequence to sequence）
 
 ## Generative adversarial networks
@@ -38,7 +38,7 @@ notebookは，tutorialとprojectに大別されます．tutorialの練習問題�
 ## その他
 
 * Tensorboard入門（Tensorboard）
-* [DQNで強化学習](https://github.com/haltaro/deep-learning-in-japanese/blob/master/reinforcement/Q-learning-cart_j.ipynb)（[Deep Q-learning](https://github.com/haltaro/deep-learning-in-japanese/blob/master/reinforcement/Q-learning-cart.ipynb)）: Deep Q-learning networkをtensorflowで実装して，OpenAI GymのCat-Poleゲームに挑戦します． 
+* [DQNで強化学習](https://github.com/haltaro/deep-learning-in-japanese/blob/master/reinforcement/Q-learning-cart_j.ipynb)（[Deep Q-learning](https://github.com/haltaro/deep-learning-in-japanese/blob/master/reinforcement/Q-learning-cart.ipynb)）: TensorFlowでDeep Q-learning networkを実装して，OpenAI GymのCat-Poleゲームに挑戦します． 
 * Batch normalization（Batch normalization）
 
 # 環境
