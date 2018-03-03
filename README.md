@@ -28,7 +28,7 @@ notebookは，tutorialとprojectに大別されます．tutorialの練習問題�
 * RNN入門（Character-wise RNN）
 * Word2Vec（Embeddings）
 * [RNNで評判分析](https://github.com/haltaro/deep-learning-in-japanese/blob/master/sentiment-rnn/Sentiment_RNN_Solution_j.ipynb)（[Sentiment analysis with RNN](https://github.com/haltaro/deep-learning-in-japanese/blob/master/sentiment-rnn/Sentiment_RNN_Solution.ipynb)）：TensorFlowでlong short term memoryベースのrecurrent neural networkを実装して，映画レビューの評判分析に挑戦します．
-* Seq2Seq（Sequence to sequence）
+* [Seq2Seq](https://github.com/haltaro/deep-learning-in-japanese/blob/master/seq2seq/sequence_to_sequence_implementation_j.ipynb)（[Sequence to sequence](https://github.com/haltaro/deep-learning-in-japanese/blob/master/seq2seq/sequence_to_sequence_implementation.ipynb)）：TensorFlowでSeq2Seqを実装して，入力文字列をソートするモデルを実装します．
 
 ## Generative adversarial networks
 
